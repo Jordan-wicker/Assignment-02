@@ -1,0 +1,95 @@
+*{
+   box-sizing: border-box
+}
+.mark-logo{
+   background-color: #FBF9F1;
+   font-family: Georgia, sans-serif;
+   padding: 20px;
+   border: 40px;
+   line-height: 1.25;
+}
+
+.mono-logo {
+   padding: 4px;
+   background-color: black;
+   color: white;
+   font-family: Geneva, sans-serif;
+}
+.hello {
+   font-size: 30px;
+   font-family: Georgia, sans-serif;
+
+}
+.p-tag-span {
+   color: #609CCF;
+}
+
+.menu-header{
+   font-family: Avenir, sans-serif;
+   margin-right: 60px;
+   padding-right: 20px;
+}
+
+.list-home {
+   color: #66CC99;
+}
+
+#menu-list {
+   width: 30%;
+}
+
+#menu-list ul{
+   list-style: none;
+   padding: 4px;
+}
+#menu-list li{
+   border: 1px solid lightgrey;
+   padding: 10px;
+   margin-left: none;
+   margin-right: 225px;
+}
+.icon-tag{
+   font-family: Georgia, sans-serif;
+
+}
+.social-med-symbols{
+   font font-family: Geneva, sans-serif;
+   font-size: 25px;
+
+}
+img{
+   width: 20px;
+   height: 20px;
+   margin-top: 10px;
+   float: left;
+   padding: 3px;
+}
+.table-header{
+   display: inline;
+   border: 1px solid;
+   background-color: #004;
+   height: 50px;
+   font-family: Helvetica Neue, sans-serif;
+
+}
+.header-font p{
+  color: white;
+}
+
+.table-header p{
+   width: 25%;
+   text-align: left;
+   padding: 0px 0 0 0px;
+   margin-bottom: 10px;
+   float: left;
+   font-family: Helvetica Neue;
+   color: black;
+
+}
+.table-header ul{
+   list-style: none;
+   width: 25%;
+   text-aling: left;
+   float: left;
+
+}
